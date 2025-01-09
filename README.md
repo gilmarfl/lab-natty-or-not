@@ -14,7 +14,7 @@ Utilizei o "Copilot" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book oferece um conteúdo cativante e visualmente atrativo, mostrando como as inteligências artificiais generativas podem ser um recurso poderoso para a educação e a disseminação do conhecimento.
 
-[https://github.com/gilmarfl/lab-natty-or-not/blob/main/exemplos/E-book_DIO.pdf]()
+[exemplos/E-book_DIO.pdf]()
 
 ## 💭 Reflexão
 Redigir este e-book foi uma jornada iluminadora, destacando o incrível potencial criativo das inteligências artificiais e suas diversas aplicações em diferentes cenários.
